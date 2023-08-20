@@ -45,7 +45,7 @@ Tasks:
 * `npm run build`
 * Select the build folder and check it
 * [Check the documentation](https://surge.sh/)
-* Deployed on [expensetracker-ivor.surge.sh](https://user-form-ivor.surge.sh)
+* Deployed on [user-form-ivor.surge.sh](https://user-form-ivor.surge.sh)
 
 ## Created <a id="created"></a>
 
